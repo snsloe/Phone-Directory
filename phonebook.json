@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "name": "Alice",
+        "surname": "Smith",
+        "phone": "89123456789",
+        "birth_date": "15.03.1985"
+    },
+    {
+        "name": "Bob",
+        "surname": "Johnson",
+        "phone": "84567890123",
+        "birth_date": "22.08.1972"
+    },
+    {
+        "name": "Charlie",
+        "surname": "Williams",
+        "phone": "87890123456",
+        "birth_date": "01.11.2001"
+    },
+    {
+        "name": "David",
+        "surname": "Brown",
+        "phone": "81357924680",
+        "birth_date": "10.05.1992"
+    },
+    {
+        "name": "Eve",
+        "surname": "Davis",
+        "phone": "85618372904",
+        "birth_date": "28.09.1968"
+    },
+    {
+        "name": "Frank",
+        "surname": "Miller",
+        "phone": "83920486175",
+        "birth_date": "18.02.2005"
+    },
+    {
+        "name": "Grace",
+        "surname": "Wilson",
+        "phone": "87139546082",
+        "birth_date": "05.07.1988"
+    },
+    {
+        "name": "Henry",
+        "surname": "Moore",
+        "phone": "82468013579",
+        "birth_date": "25.12.1979"
+    },
+    {
+        "name": "Ivy",
+        "surname": "Taylor",
+        "phone": "89314758620",
+        "birth_date": "12.04.2000"
+    },
+    {
+        "name": "Jack",
+        "surname": "Anderson",
+        "phone": "86721983450",
+        "birth_date": "03.10.1995"
+    }
+]
